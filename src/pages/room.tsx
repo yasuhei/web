@@ -10,5 +10,5 @@ export function Room() {
     return <Navigate replace to="/" />;
   }
 
-  return <div>room</div>;
+  return <div>roomS</div>;
 }
